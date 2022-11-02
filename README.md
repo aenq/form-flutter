@@ -1,5 +1,5 @@
 # form-flutter
-form flutter without validation
+flutter form without validation
 
 how to use:
 - create new dart project with android studio, flutlab, vscode, etc.
